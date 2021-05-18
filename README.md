@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Carlos-Reis
+- 👀 I’m interested in Technology in general
+- 🌱 I’m currently working as a .NET/C# software engineer
+- 💞️ I’m looking to improve my skills, but as I don't work directly with Git, I'm using it to store a few tests that I receive
+- 📫 How to reach me: Linkedin or email, and feel free to clone, fork or make pull requests in any of the projects here, as I said they are simple evaluation questions so I don't actually evolve them.
